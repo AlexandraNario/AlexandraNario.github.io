@@ -1,0 +1,22 @@
+html {
+  background: #36EEE0;
+  height: 100%;
+  width: 100%;
+}
+#demo_panel {
+  background: #BCECE0;
+}
+h3 { 
+  font-size: 1em; 
+  font-family: Arial;
+}
+#demo_panel .headline {
+  font-size: 2.67em;
+  font-weight: bolder;
+}
+
+#demo_panel .btn {
+  color:white;
+  background-color: #4C5270;
+  border: 2px white dashed;
+}
